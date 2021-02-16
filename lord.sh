@@ -41,8 +41,8 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR WITH THE USE OR OTHER OFFERS OF THE SOFTWARE.
 # IF THE SOFTWARE IS PUBLISHED ON GITHUB THE CREDITS OF THE SOFTWARE MAY BE IN THE FORM OF COMMENT, BANNER OR README.md!
 
-R='\e[1;31m'
-green='\e[1;32m'
+red='\e[1;31m'
+gren='\e[1;32m'
 Y='\e[1;33m'
 B='\e[1;34m'
 magenta='\e[1;35m'
@@ -59,7 +59,7 @@ w="\e[1;39m"
 c="\e[1;96m"
 b="\e[1;94m"
 o="\e[1;33m"
-red="\033[1;31m"
+R="\033[1;31m"
 G='\033[1;32m'
 Y='\033[1;33m'
 blue='\033[1;34m'
