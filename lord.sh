@@ -84,6 +84,7 @@ user_interrupt(){
 }              
 
 smail_banner() {
+printf "\n"
 printf "${red}█░░ █▀█ █▀█ █▀▄ █▀█ █░█ █ █▀ █░█\n"
 printf "${red}█▄▄ █▄█ █▀▄ █▄▀ █▀▀ █▀█ █ ▄█ █▀█\n"
 printf "      \e[1;97m  .:.  Version 1.9 Beta  .:.  \e[0m\n"
