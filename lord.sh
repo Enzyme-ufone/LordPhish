@@ -791,7 +791,7 @@ printf '<br><label>%s: </label>' $pass_text >> .sites/create/login.html
 IFS=$'\n'
 printf '<input type="password" name="password" length=64><br><br>\n' >> .sites/create/login.html
 IFS=$'\n'
-printf '<input value="%s" type="submit"></form>\n' $sub_text >> sites/create/login.html
+printf '<input value="%s" type="submit"></form>\n' $sub_text >> .sites/create/login.html
 printf '</center>' >> .sites/create/login.html
 printf '<body>\n' >> .sites/create/login.html
 printf '</html>\n' >> .sites/create/login.html
