@@ -220,6 +220,7 @@ start1
 
 elif [[ $menu_option == 5 || $menu_option == 05 ]]; then
 server="github"
+mask='get-followers-one-github'
 start1
 
 elif [[ $menu_option == 6 || $menu_option == 06 ]]; then
