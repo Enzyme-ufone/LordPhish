@@ -18,6 +18,7 @@
 # Pages by: A1S0N
 # Pages by: Zeus
 # Pages by: Darkmidius
+#pages by: AdvPhidhing devs
 
 # MIT license
 
