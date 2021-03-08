@@ -61,3 +61,5 @@ Aurthor assumes that the users would use lordphish **legally**. Aurthor won't be
 <code><a href="https://github.com/A1S0N"><img src="https://img.shields.io/badge/Thanks For Pages-AL1S0N-blue"></code></a>
 <code><a href="https://github.com/tony23x"><img src="https://img.shields.io/badge/Thanks For Banners-Th3_Pr3d4t0r-blue"></code></a>
 <code><a href="https://github.com/Zeushx"><img src="https://img.shields.io/badge/Thanks For Help Me-Zeus-blue"></code></a>
+<code><a href="https://github.com/Ignitetch/AdvPhishing"><img src="https://img.shields.io/badge/Thanks For Pages-Ignitetch-blue"></code></a>
+
